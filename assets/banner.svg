@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">Lucas Missiba — Full Stack Developer</title>
+  <desc id="banner-desc">Software, integrações e produtos digitais. Rio de Janeiro, Brasil. Banner azul-escuro com tipografia clara e um desenho modular em verde.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111922"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="connector" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#69e5b1"/>
+      <stop offset="1" stop-color="#3d7977"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1278" height="358" rx="20" fill="url(#surface)" stroke="#27333f" stroke-width="2"/>
+  <path d="M64 2h100" stroke="#69e5b1" stroke-width="3"/>
+
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="64" y="69" fill="#69e5b1" font-size="14" font-weight="600" letter-spacing="3.3">FULL STACK DEVELOPER</text>
+    <text x="60" y="166" fill="#f0f6fc" font-size="76" font-weight="700" letter-spacing="-3.8">Lucas Missiba</text>
+    <text x="64" y="216" fill="#aab9c8" font-size="24" letter-spacing="-0.25">Software, integrações e produtos digitais.</text>
+    <path d="M64 260h628" stroke="#283743" stroke-width="1"/>
+    <circle cx="68" cy="301" r="4" fill="#69e5b1"/>
+    <text x="85" y="306" fill="#92a5b8" font-size="13" font-weight="500" letter-spacing="2.2">RIO DE JANEIRO · BRASIL</text>
+  </g>
+
+  <g aria-hidden="true">
+    <path d="M839 47v266" stroke="#273843" stroke-width="1"/>
+    <g stroke="#273c46" stroke-width="1" opacity="0.55">
+      <path d="M899 62v234M975 62v234M1051 62v234M1127 62v234M1203 62v234"/>
+      <path d="M879 94h344M879 170h344M879 246h344"/>
+    </g>
+    <g fill="#45616a">
+      <circle cx="899" cy="94" r="2"/>
+      <circle cx="1203" cy="94" r="2"/>
+      <circle cx="899" cy="246" r="2"/>
+      <circle cx="1203" cy="246" r="2"/>
+    </g>
+    <path d="M1001 128h50a12 12 0 0 1 12 12v91" fill="none" stroke="url(#connector)" stroke-width="2.5"/>
+    <path d="M1115 128h-40a12 12 0 0 0-12 12v91" fill="none" stroke="#3d6472" stroke-width="2"/>
+
+    <rect x="895" y="88" width="106" height="80" rx="12" fill="#122922" stroke="#3e7861" stroke-width="1.5"/>
+    <path d="M925 110v36h47" fill="none" stroke="#69e5b1" stroke-width="5" stroke-linecap="square"/>
+    <path d="M943 110v18h29" fill="none" stroke="#69e5b1" stroke-width="5" stroke-linecap="square" opacity="0.4"/>
+
+    <rect x="1115" y="88" width="96" height="80" rx="12" fill="#131e28" stroke="#3b5261" stroke-width="1.5"/>
+    <rect x="1142" y="111" width="14" height="14" rx="2" fill="#79929f"/>
+    <rect x="1169" y="111" width="14" height="14" rx="2" fill="#304955"/>
+    <rect x="1142" y="138" width="14" height="7" rx="2" fill="#304955"/>
+    <rect x="1169" y="138" width="14" height="7" rx="2" fill="#79929f"/>
+
+    <rect x="1010" y="222" width="106" height="74" rx="12" fill="#14252b" stroke="#3d6571" stroke-width="1.5"/>
+    <path d="M1035 247h22M1035 260h56M1035 273h42" stroke="#87afb6" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="1063" cy="197" r="5" fill="#69e5b1" stroke="#0d1117" stroke-width="3"/>
+    <path d="M1160 265h44M1182 243v44" stroke="#2f4551" stroke-width="1.5"/>
+  </g>
+</svg>
